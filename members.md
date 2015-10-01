@@ -65,6 +65,7 @@ Format:
 | Andrew Suppa | [antaios256](https://github.com/antaios256) ||
 | Andy Huynh | [andystructible](https://github.com/andystructible) | I'm interning at a RoRs shop in Southern California. I'm excited to contribute to the open source community! |
 | Angela Sheu | [angelasheu](https://github.com/angelasheu) ||
+| Anja Beth Swoap | [anjabeth] (https://github.com/anjabeth) | Freshman CS student. Basic self-taught experience in Java, Javascript, Python, Ruby and CSS. Entirely new to open source and hoping to learn how to be a productive contributor. ||
 | Anna Mach | [amach](https://github.com/amach) ||
 | Anthony Gargiulo | [agargiulo](https://github.com/agargiulo) ||
 | Armand Halbert | [ahalbert](https://github.com/ahalbert) ||
